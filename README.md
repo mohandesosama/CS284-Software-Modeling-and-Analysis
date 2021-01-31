@@ -28,7 +28,7 @@ This course introduces modeling and analysis as core concepts in software engine
 * Mini projects (done by groups of -3 students and carry - marks)
 
 ## Textbooks:
-* Bernd Bruegge and Allen H. Dutoit, "Object-Oriented Software Engineering, Using UML, Patterns, and Java", 3rd ed., Prentice-Hall,
+* Bernd Bruegge and Allen H. Dutoit, "Object-Oriented Software Engineering, Using UML, Patterns, and Java", 3rd ed., Prentice-Hall,[[Download PDF](ftp://ftp.aspel.com.mx/pub/aspelal/sistemas/calidad/deposito/Prentice%20Hall%20-%20Pearson%20-%20Object-Oriented%20Software%20Engineering%20-%20Using%20UML,%20Patterns%20and%20Java.pdf)]
 
 ## Slides and Videos
 * Introduction [[Slides]](./Slides/Lecture%201%20-%20Introduction.pdf), [[Video1]](https://youtu.be/XANP36e8leI) [[Video2]](https://youtu.be/KcRCUCqL6CM)
