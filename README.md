@@ -24,7 +24,7 @@ This course introduces modeling and analysis as core concepts in software engine
 * Give an idea about some tools that are used in software development life cycle.
 * Acquire basic concepts of UML.
 * Practice with UML models
-* Use a selected tool such as ArgoUML to produce different models used in OO software analysis and design such as: (a) Use case, (b) Sequence diagram, (c) Activity diagram, (d) Class diagram, etc.
+* Use a selected tool such as ArgoUML [[Download ArgoUML](./SW/ArgoUML-0.34-setup.exe)] to produce different models used in OO software analysis and design such as: (a) Use case, (b) Sequence diagram, (c) Activity diagram, (d) Class diagram, etc.
 * Mini projects (done by groups of -3 students and carry - marks)
 
 ## Textbooks:
