@@ -31,5 +31,5 @@ This course introduces modeling and analysis as core concepts in software engine
 * Bernd Bruegge and Allen H. Dutoit, "Object-Oriented Software Engineering, Using UML, Patterns, and Java", 3rd ed
 
 ## Slides and Videos
-* Lecture 1: Introduction [[Slides]](./Slides/Lecture%201%20-%20Introduction.pdf), [[Video1]](https://youtu.be/XANP36e8leI) [[Video2]](https://youtu.be/KcRCUCqL6CM)
+* Lecture 1: Introduction [[Slides](./Slides/Lecture%201%20-%20Introduction.pdf)], [[Video1](https://youtu.be/XANP36e8leI)], [[Video2](https://youtu.be/KcRCUCqL6CM)]
 * Lecture 2: Modeling with UML[[Slides](./Slides/Lecture%202%20-%20Modeling%20with%20UML.pdf)], [[Video1](https://youtu.be/c21IPDprHtM)]
