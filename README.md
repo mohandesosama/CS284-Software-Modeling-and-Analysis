@@ -24,13 +24,13 @@ This course introduces modeling and analysis as core concepts in software engine
 * Give an idea about some tools that are used in software development life cycle.
 * Acquire basic concepts of UML.
 * Practice with UML models
-* Use a selected tool such as [ArgoUML](https://www.filehorse.com/download-argouml/)]to produce different models used in OO software analysis and design such as: (a) Use case, (b) Sequence diagram, (c) Activity diagram, (d) Class diagram, etc.
+* Use a selected tool such as [ArgoUML](https://www.filehorse.com/download-argouml/) or [Umbrello](https://umbrello.kde.org/) to produce different models used in OO software analysis and design such as: (a) Use case, (b) Sequence diagram, (c) Activity diagram, (d) Class diagram, etc.
 * Mini projects (done by groups of -3 students and carry - marks)
 
 ## Needed Software
 You can choose one of the following softwares as they all working with the same notation used in the book
 ### Umbrello Setup
-You can download whatever version suitable to your device from [here](https://umbrello.kde.org/)
+You can download whatever version suitable to your device from [here]()
 ### ArgoUML Setup
 You may need to follow the following instructions
 * Install Jave Runtime Environment (JRE) from [here](https://java-2-runtime-environment.ar.uptodown.com/windows). 
