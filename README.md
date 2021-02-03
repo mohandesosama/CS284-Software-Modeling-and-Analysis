@@ -27,6 +27,11 @@ This course introduces modeling and analysis as core concepts in software engine
 * Use a selected tool such as ArgoUML [[Download ArgoUML](./SW/ArgoUML-0.34-setup.exe)] [[Another Link](https://www.filehorse.com/download-argouml/)]to produce different models used in OO software analysis and design such as: (a) Use case, (b) Sequence diagram, (c) Activity diagram, (d) Class diagram, etc.
 * Mini projects (done by groups of -3 students and carry - marks)
 
+## ArgoUML Setup
+You may need to follow the following instructions
+* Install Jave Runtime Environment (JRE) from [here](https://java-2-runtime-environment.ar.uptodown.com/windows). 
+* Install ArgoUML from [here](https://www.filehorse.com/download-argouml/).
+
 ## Textbooks:
 * Bernd Bruegge and Allen H. Dutoit, "Object-Oriented Software Engineering, Using UML, Patterns, and Java", 3rd ed
 
