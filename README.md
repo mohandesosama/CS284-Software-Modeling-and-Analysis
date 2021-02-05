@@ -36,7 +36,7 @@ You may need to follow the following instructions
 * Install Jave Runtime Environment (JRE) from [here](https://java-2-runtime-environment.ar.uptodown.com/windows). 
 * Install ArgoUML from [here](./SW/ArgoUML-0.34-setup.exe).
 
-## Textbooks:
+## Textbook:
 * Bernd Bruegge and Allen H. Dutoit, "Object-Oriented Software Engineering, Using UML, Patterns, and Java", 3rd ed
 
 ## Slides and Videos
