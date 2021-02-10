@@ -39,7 +39,7 @@ You may need to follow the following instructions
 #### Lucidchart
 You can work online on [this website](https://www.lucidchart.com/pages/) and draw the diagrams for free, but it needs registeration. 
 #### Draw.io
-Also you can work on the cloud version of [draw.io](https://app.diagrams.net/) for ketching your drawings. You can work directly online without registeration. 
+Also you can work on the cloud version of [draw.io](https://app.diagrams.net/) for sketching your drawings. You can work directly online without registeration. 
 
 ## Textbook:
 * Bernd Bruegge and Allen H. Dutoit, "Object-Oriented Software Engineering, Using UML, Patterns, and Java", 3rd ed
