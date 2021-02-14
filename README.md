@@ -43,7 +43,7 @@ You can work online on [this website](https://www.lucidchart.com/pages/) and dra
 Also you can work on the cloud version of [draw.io](https://app.diagrams.net/) for sketching your drawings. You can work directly online without registeration. 
 
 ## Textbook:
-* Bernd Bruegge and Allen H. Dutoit, "Object-Oriented Software Engineering, Using UML, Patterns, and Java", 3rd ed
+* Bernd Bruegge and Allen H. Dutoit, "Object-Oriented Software Engineering, Using UML, Patterns, and Java", 3rd ed [[PDF](https://iran-lms.com/images/images/Books/PDF/Object-Oriented-Software-Engineering-Using-UML-Patterns-and-Java-Prentice-Hall-2010-Bernd-Bruegge-Allen-H.-Dutoit.pdf)]
 
 ## Slides and Videos
 * Lecture 1: Introduction [[Slides](./Slides/Lecture%201%20-%20Introduction.pdf)], [[Video1](https://youtu.be/XANP36e8leI)], [[Video2](https://youtu.be/KcRCUCqL6CM)]
