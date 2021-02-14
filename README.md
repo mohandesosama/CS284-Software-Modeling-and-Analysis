@@ -1,4 +1,5 @@
 # CS284: Software Modeling and Analysis تحليل ونمذجة البرمجيات
+Spring 2021
 ## Course Objectives:
 Having successfully completed this course, the student will be able to:
 * Introduces modeling and analysis as core concepts in software engineering discipline.
