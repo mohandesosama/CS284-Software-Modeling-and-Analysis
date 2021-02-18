@@ -49,4 +49,4 @@ Also you can work on the cloud version of [draw.io](https://app.diagrams.net/) f
 * Lecture 1: Introduction [[Slides](./Slides/Lecture%201%20-%20Introduction.pdf)], [[Video1](https://youtu.be/XANP36e8leI)], [[Video2](https://youtu.be/KcRCUCqL6CM)]
 * Lecture 2: Modeling with UML[[Slides](./Slides/Lecture%202%20-%20Modeling%20with%20UML.pdf)], [[Video1](https://youtu.be/c21IPDprHtM)][[Video2](https://youtu.be/UOb8V5Z1bPQ)]
 * Lecture 3: Project Organization and Communication [[Slides](./Slides/Lecture%2003%20-%20Project%20Organization%20and%20Communication.pdf)], [[Video1](https://youtu.be/D59ASuinB_M)] [[Video2](https://youtu.be/Fp6t3Bh48aw)]
-* Lecture 4: Requirement Elicitation [[Slides](./Slides/Lecture%2004%20-%20Requirement%20elecitation.pdf)], [[Video1](https://youtu.be/VncdueCGRvk)]
+* Lecture 4: Requirement Elicitation [[Slides](./Slides/Lecture%2004%20-%20Requirement%20elecitation.pdf)], [[Video1](https://youtu.be/VncdueCGRvk)][[Video2](https://youtu.be/J4AkgQkI5N8)]
