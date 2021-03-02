@@ -36,6 +36,8 @@ You can download whatever version suitable to your device from [here](https://um
 You may need to follow the following instructions
 * Install Jave Runtime Environment (JRE) from [here](https://java-2-runtime-environment.ar.uptodown.com/windows). 
 * Install ArgoUML from [here](./SW/ArgoUML-0.34-setup.exe).
+### Rational Rose
+You can download it from [here](./SW/Rational%20Rose%2098.rar)
 ### Online
 #### Lucidchart
 You can work online on [this website](https://www.lucidchart.com/pages/) and draw the diagrams for free, but it needs registeration. 
