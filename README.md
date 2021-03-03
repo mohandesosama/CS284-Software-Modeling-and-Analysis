@@ -52,4 +52,4 @@ Also you can work on the cloud version of [draw.io](https://app.diagrams.net/) f
 * Lecture 2: Modeling with UML[[Slides](./Slides/Lecture%202%20-%20Modeling%20with%20UML.pdf)], [[Video1](https://youtu.be/c21IPDprHtM)][[Video2](https://youtu.be/UOb8V5Z1bPQ)]
 * Lecture 3: Project Organization and Communication [[Slides](./Slides/Lecture%2003%20-%20Project%20Organization%20and%20Communication.pdf)], [[Video1](https://youtu.be/D59ASuinB_M)] [[Video2](https://youtu.be/Fp6t3Bh48aw)]
 * Lecture 4: Requirement Elicitation [[Slides](./Slides/Lecture%2004%20-%20Requirement%20elecitation.pdf)], [[Video1](https://youtu.be/VncdueCGRvk)][[Video2](https://youtu.be/J4AkgQkI5N8)]
-* Lecture 5: Analysis, Object and Dynamic models [[Slides](./Slides/Lecture%2005%20-%20Analysis%20(object%20modeling%20and%20dynamic%20modeling).pdf)], [[Video1](https://youtu.be/ahxM-fT5ZKs)]
+* Lecture 5: Analysis, Object and Dynamic models [[Slides](./Slides/Lecture%2005%20-%20Analysis%20(object%20modeling%20and%20dynamic%20modeling).pdf)], [[Video1](https://youtu.be/ahxM-fT5ZKs)][[Video2](https://youtu.be/SPmGSwvCZL4)]
